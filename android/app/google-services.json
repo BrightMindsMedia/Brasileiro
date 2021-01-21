@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "183886388491",
+    "project_id": "brasiliero-mobile",
+    "storage_bucket": "brasiliero-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183886388491:android:c5ff48753bb9af3813160e",
+        "android_client_info": {
+          "package_name": "uk.co.brasileiroonline.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183886388491-dvbhgfnkglj8bhf1frchq7s1472uu3da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.brasileiroonline.mobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "183886388491-pllk07k9tcqjl09v5l67qvakptdir064.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.brasileiroonline.mobile",
+            "certificate_hash": "bc2f2590fbd106b19f74d365901513b2cee11820"
+          }
+        },
+        {
+          "client_id": "183886388491-gd9tjfdro5a54dtdv0elad05t8vupgb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPWZzGl1Xf-so4ZSAPcp6GgmFRZ2EnNLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183886388491-gd9tjfdro5a54dtdv0elad05t8vupgb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183886388491-hremntii3i20g30cdhncrulrtdf9sgie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "uk.co.brasileiroonline.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
